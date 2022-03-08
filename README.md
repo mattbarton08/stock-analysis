@@ -1,4 +1,4 @@
 # Stock Analysis
 
-##Summary
+## Summary
 Analyzing DQ stock as well as other green energy stocks.
